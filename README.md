@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vikram Solanki</h1>
 <h3 align="center">Software Engineer | AI & Data Science Specialist | Full-Stack Enthusiast</h3>
+<div display="flex">
+  <img align="right" alt="coding" width="600" src="https://github.com/user-attachments/assets/bdf90dc3-1f0f-41d0-a4c7-e97e5f99129f">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramsolanki12&label=Profile%20views&color=0e75b6&style=flat" alt="vikramsolanki12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikramsolanki12" alt="vikramsolanki12" /></a> </p>
+</div>
+
 
 - 🔭 I’m currently working on **travel management system**
 
