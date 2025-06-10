@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vikram Solanki</h1>
 <h3 align="center">Software Engineer | AI & Data Science Specialist | Full-Stack Enthusiast</h3>
 <div display="flex">
-  <img align="right" alt="coding" width="600" src="https://github.com/user-attachments/assets/bdf90dc3-1f0f-41d0-a4c7-e97e5f99129f">
-
+  <img align="right" alt="coding" width="600" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramsolanki12&label=Profile%20views&color=0e75b6&style=flat" alt="vikramsolanki12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikramsolanki12" alt="vikramsolanki12" /></a> </p>
+</a> </p>
 </div>
 
 
