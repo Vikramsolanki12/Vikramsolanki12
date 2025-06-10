@@ -1,3 +1,4 @@
+![logo](https://github.com/Vikramsolanki12/Vikramsolanki12/blob/main/vikram_solanki.png)
 <h1 align="center">Hi 👋, I'm Vikram Solanki</h1>
 <h3 align="center">Software Engineer | AI & Data Science Specialist | Full-Stack Enthusiast</h3>
 <div display="flex">
