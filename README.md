@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Vikram%20Solanki&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Dev&descAlignY=55&descSize=18" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Vikram%20Solanki&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Dev&descAlignY=55&descSize=18" width="100%" /> -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+React+%26+Spring+Boot;Exploring+Machine+Learning+%26+Deep+Learning;Turning+coffee+into+code+%E2%98%95;Open+to+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=____+Building+full-stack+apps+with+React+%26+Spring+Boot;Exploring+Machine+Learning+%26+Deep+Learning;Turning+coffee+into+code+%E2%98%95;Open+to+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -85,8 +85,8 @@ fun_fact: "I take everything seriously... except myself 🙃"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vikramsolanki12&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="Vikram's GitHub stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramsolanki12&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Top Languages" width="38%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=vikramsolanki12&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="Vikram's GitHub stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramsolanki12&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Top Languages" width="38%" /> -->
 
 <br/>
 
@@ -98,7 +98,7 @@ fun_fact: "I take everything seriously... except myself 🙃"
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vikramsolanki12&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=vikramsolanki12&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" /> -->
 
 </div>
 
